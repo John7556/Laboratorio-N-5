@@ -28,6 +28,8 @@ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tab
 
 ![image](https://user-images.githubusercontent.com/93899720/148550877-4f62fc96-0ccb-4bd2-990e-d1d82da0a4a1.png)
 
+![image](https://user-images.githubusercontent.com/93899720/148552221-7655a8b5-c6a8-41ec-bc14-43c33a0ba36e.png)
+
 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla .
 
 ![image](https://user-images.githubusercontent.com/93899720/148550910-13df15b4-70ee-4991-a7e0-b2a4f6664999.png)
