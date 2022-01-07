@@ -34,7 +34,7 @@ Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el val
 
 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla .
 
-![image](https://user-images.githubusercontent.com/93899720/148550990-073ae300-70f6-4e41-aebc-a3a651bddf22.png)
+![image](https://user-images.githubusercontent.com/93899720/148551711-72e08970-6d93-43a4-aa52-502e6f6e206f.png)
 
 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida lacorriente y el voltaje en el mismo, anote los resultados en la tabla .
 
