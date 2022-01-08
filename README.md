@@ -50,7 +50,7 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 
 5. VIDEO
 
-
+https://youtu.be/DDYMVgOJGCI
 
 6. CONCLUSIONES
 
