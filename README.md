@@ -47,6 +47,25 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/93899720/148803845-6856c417-67eb-4f09-ab6a-d8815e847cc4.png)
+![image](https://user-images.githubusercontent.com/93899720/148803889-477a817e-96fb-4393-938c-2a33da8cbd7f.png)
+![image](https://user-images.githubusercontent.com/93899720/148803911-189f7093-0c95-483d-93f9-11f5b3f54e7f.png)
+![image](https://user-images.githubusercontent.com/93899720/148803947-6bba5ae0-97e9-4aa6-82aa-557eb888e13a.png)
+![image](https://user-images.githubusercontent.com/93899720/148803992-65455011-ae26-4e9b-8c62-6052cd4d6de9.png)
+![image](https://user-images.githubusercontent.com/93899720/148804019-3546f4a0-700f-47e5-b31b-314ad704497e.png)
+![image](https://user-images.githubusercontent.com/93899720/148804056-b0da64cd-9066-4509-a81d-414df02940bc.png)
+![image](https://user-images.githubusercontent.com/93899720/148804104-eca28384-b114-43d0-8adb-84f0e28c5125.png)
+![image](https://user-images.githubusercontent.com/93899720/148804127-07180c2d-d4c4-46ea-9642-40a3123f522a.png)
+![image](https://user-images.githubusercontent.com/93899720/148804153-c546b137-89db-47a3-abac-4b6c5f49aff8.png)
+![image](https://user-images.githubusercontent.com/93899720/148804181-7655bf5a-2375-4746-a8d2-c7aee3478bd5.png)
+
+
+![image](https://user-images.githubusercontent.com/93899720/148804227-fd013310-337a-45a0-acc2-2578b5ce6353.png)
+
+
+![image](https://user-images.githubusercontent.com/93899720/148804267-6cbd3b2c-c97b-4cdb-8fbb-a40558a875fd.png)
+
+
 
 5. VIDEO
 
